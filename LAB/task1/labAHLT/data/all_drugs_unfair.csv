@@ -1,0 +1,695 @@
+,comp,type
+0,"1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine",drug_n
+1,"16,16-dimethylprostaglandin E2",drug_n
+2,18-Methoxycoronaridine,drug_n
+3,5HT3 Antagonists,group
+4,6MNA,drug_n
+5,99mTc-methylene diphosphonate,drug
+6,AAV2,drug_n
+7,ACE inhibitors,group
+8,ACE-inhibitors,group
+9,ACZONE,brand
+10,ADL 8-2698,drug
+11,AEDs,group
+12,AGGRASTAT,brand
+13,ALFENTA,brand
+14,ALIMTA,brand
+15,ALKERAN,brand
+16,ALPHAGAN P,brand
+17,AMEVIVE,brand
+18,AMICAR,brand
+19,ARAMINE,brand
+20,ASMANEX TWISTHALER,brand
+21,ATROVENT,brand
+22,AZOPT,brand
+23,Abciximab,drug
+24,Acetaminophen,drug
+25,Acetylcysteine,drug
+26,Acidifying agents,group
+27,Activase,brand
+28,Adenocard,brand
+29,Albuterol,drug
+30,Alcohol,drug
+31,Aliskiren,drug
+32,Allopurinol,drug
+33,Amantadine,drug
+34,Aminoglutethimide,drug
+35,Aminoglycosides,group
+36,Aminosalicylic acid,drug
+37,Amiodarone,drug
+38,Amphetamine,drug
+39,Amprenavir,drug
+40,Anafranil,brand
+41,Anastrozole,drug
+42,Androgens,group
+43,Anesthetics,group
+44,Angiomax,brand
+45,Antacid,group
+46,Antacids,group
+47,Anticholinesterases,group
+48,Anticoagulants,group
+49,Antidepressant,group
+50,Antidiabetic drug,group
+51,Antiepileptic Drugs,group
+52,Antihistamines,group
+53,Antipsychotic drugs,group
+54,Antizol,brand
+55,Apraclonidine,drug
+56,Aprepitant,drug
+57,Ascorbic acid,drug
+58,Aspirin,brand
+59,Atovaquone,drug
+60,Auranofin,drug
+61,Azlocillin,drug
+62,BETAGAN,brand
+63,BOTOX,brand
+64,Barbiturates,group
+65,Bentiromide,drug
+66,Benzthiazide,drug
+67,Beta-Blockers,group
+68,Beta-adrenergic Blocking Agents,group
+69,Beta-adrenergic blocking agents,group
+70,Betaseron,brand
+71,Bezalip,brand
+72,Bismuth,drug
+73,Bosentan,drug
+74,Broad-Spectrum Antibiotics,group
+75,Buprenorphine,drug
+76,CAMPTOSAR,brand
+77,CASODEX,brand
+78,CEFOTAN,brand
+79,CHEMET,brand
+80,CNS depressant drugs,group
+81,CNS depressants,group
+82,COLAZAL,brand
+83,COPAXONE,brand
+84,CRM197,drug_n
+85,CYLERT,brand
+86,CYP3A4,drug
+87,Calcitonin (salmon),drug
+88,Calcium,drug
+89,Campath,brand
+90,Carbamazepine,drug
+91,Carbidopa,drug
+92,Catecholamine-depleting drugs,group
+93,Cefizox,brand
+94,Celontin,brand
+95,Central Nervous System Depressants,group
+96,Central nervous system depressant,group
+97,Cerubidine,brand
+98,Cevimeline,drug
+99,Chirocaine,brand
+100,Chlorotrianisene,drug
+101,Chlorprothixene,drug
+102,Chlorthalidone,drug
+103,Cholestyramine,drug
+104,Cimetidine,drug
+105,Cisapride,drug
+106,Clindamycin,drug
+107,Clonazepam,drug
+108,Clostridium difficile toxin A,drug_n
+109,Clozapine,drug
+110,Codeine,drug
+111,Colchicine,drug
+112,Contraceptives,group
+113,Corticotropin,drug
+114,Coumarin-Derivative Anticoagulants,group
+115,Coumarin-Type Anticoagulants,group
+116,Cromolyn sodium,drug
+117,Cyclopentolate,drug
+118,Cyclosporine,drug
+119,Cypermethrin,drug
+120,Cytadren,brand
+121,Cytosine arabinoside,drug
+122,DCG-IV,drug_n
+123,DEMSER,brand
+124,DIAMOX,brand
+125,DIFFERIN,brand
+126,DIFLUCAN,brand
+127,DIPRIVAN,brand
+128,DOSTINEX,brand
+129,DOXIL,brand
+130,DZNep,drug_n
+131,Dactinomycin,drug
+132,Dantrium,brand
+133,Desmopressin,drug
+134,Dexamethasone,drug
+135,Dexbrompheniramine,drug
+136,Dicumarol,drug
+137,Digitalis,group
+138,Digoxin,drug
+139,Dimenhydrinate,drug
+140,Diphenhydramine hydrochloride,drug
+141,Disulfiram,drug
+142,Diuretic,group
+143,Diuretics,group
+144,Dopamine antagonists,group
+145,Duloxetine,drug
+146,ELLENCE,brand
+147,ELOXATIN,brand
+148,ELSPAR,brand
+149,EMTRIVA,brand
+150,ENABLEX,brand
+151,ENBREL,brand
+152,EPA,drug
+153,ERBITUX,brand
+154,ERGAMISOL,brand
+155,ERGOMAR,brand
+156,ETHYOL,brand
+157,ETOPOPHOS,brand
+158,EXTRANEAL,brand
+159,Efavirenz,drug
+160,Enflurane,drug
+161,Enoxaparin,drug
+162,Ephedrine,drug
+163,Epinephrine,drug
+164,Eplerenone,drug
+165,Eprosartan,drug
+166,Ergot,group
+167,Ergot-Containing Drugs,group
+168,Erythromycin,drug
+169,Esomeprazole,drug
+170,Ethanol,drug
+171,Ethinyl estradiol,drug
+172,Ethopropazine,drug
+173,Ethoxzolamide,drug
+174,Etonogestrel,drug
+175,Exelon,brand
+176,Exemestane,drug
+177,Exjade,brand
+178,FACTIVE,brand
+179,FELDENE,brand
+180,FLEXERIL,brand
+181,FLOLAN,brand
+182,FLOMAX,brand
+183,FLUDARA,brand
+184,FLUOTHANE,brand
+185,FOSCAVIR,brand
+186,Factrel,brand
+187,Fenfluramine,drug
+188,Fentanyl,drug
+189,Finasteride,drug
+190,Flupenthixol,drug
+191,Fluvoxamine,drug
+192,Folic acid,drug
+193,Fondaparinux,drug
+194,Fulvestrant,drug
+195,Furosemide,drug
+196,Ganoderma lucidum extract,drug_n
+197,Gemzar,brand
+198,Geocillin,brand
+199,Glucose,drug
+200,Green tea polyphenols,drug
+201,Guanethidine,drug
+202,HEMABATE,brand
+203,HERCEPTIN,brand
+204,HEXALEN,brand
+205,HUMORSOL,brand
+206,HYDROXYZINE,drug
+207,Heparin,drug
+208,Human growth hormone,drug
+209,INOmax,brand
+210,INVEGA,brand
+211,INVIRASE,brand
+212,Immunosuppressive Drugs,group
+213,Immunosuppressive drugs,group
+214,Implanon,brand
+215,Indinavir,drug
+216,Iodine,drug
+217,Isocarboxazid,drug
+218,Isoflurane,drug
+219,Isoniazid,drug
+220,Isoproterenol hydrochloride,drug
+221,Itraconazole,drug
+222,Jacalin,drug_n
+223,KRM-1648,drug_n
+224,Keppra,brand
+225,Kerlone,brand
+226,Ketoconazole,drug
+227,Ketorolac,drug
+228,LEUSTATIN,brand
+229,LEVSIN,brand
+230,LEVULAN KERASTICK,brand
+231,LODOSYN,brand
+232,Lamivudine,drug
+233,Lansoprazole,drug
+234,Lapatinib,drug
+235,Leukine,brand
+236,Levo-Dromoran,brand
+237,Levofloxacin,drug
+238,Levosimendan,drug
+239,Lincomycin,drug
+240,Linezolid,drug
+241,Lithium,drug
+242,Lofexidine,drug
+243,Loratadine,drug
+244,Lovastatin,drug
+245,Lovenox,brand
+246,MAO inhibitors,group
+247,MEXITIL,brand
+248,MIVACRON,brand
+249,MPTP,drug_n
+250,MYCAMINE,brand
+251,MYOBLOC,brand
+252,Macrolide Antibiotics,group
+253,Magnesium,drug
+254,Medroxyprogesterone Acetate,drug
+255,Mefloquine,drug
+256,Melatonin,drug
+257,Mentax,brand
+258,Mequitazine,drug
+259,Metformin,drug
+260,Methazolamide,drug
+261,Methotrexate,drug
+262,Methscopolamine,drug
+263,Methyprylon,drug
+264,Methysergide,drug
+265,Metoclopramide,drug
+266,Metopirone,brand
+267,Mineral oil,drug
+268,Misonidazole,drug_n
+269,Mitotane,drug
+270,Monoamine Oxidase Inhibitors,group
+271,Monoamine oxidase (MAO) inhibitors,group
+272,Montelukast,drug
+273,Mylotarg,brand
+274,N-allylnormetazocine,drug_n
+275,NEUPOGEN,brand
+276,NEXAVAR,brand
+277,NIMBEX,brand
+278,NSAIDs,group
+279,Nabilone,drug
+280,Natrecor,brand
+281,Nelfinavir,drug
+282,Netilmicin,drug
+283,Neulasta,brand
+284,Nevirapine,drug
+285,Nitrates,group
+286,Nitroglycerin,drug
+287,Non-selective MAO inhibitors,group
+288,Non-selective monoamine oxidase (MAO) inhibitors,group
+289,NovoSeven,brand
+290,ORENCIA,brand
+291,Ocupress,brand
+292,Olanzapine,drug
+293,Omniscan,brand
+294,Ondansetron,drug
+295,Opioids,group
+296,Oxcarbazepine,drug
+297,Oxytocin,drug
+298,PAH,drug
+299,PEGANONE,brand
+300,PEGASYS,brand
+301,PERSANTINE,brand
+302,PLETAL,brand
+303,PROLEUKIN,brand
+304,PROSTIN E2,brand
+305,PURINETHOL,brand
+306,Panretin,brand
+307,Pantoprazole,drug
+308,Paricalcitol,drug_n
+309,Phenothiazines,group
+310,Phospholine Iodide,drug
+311,Pilocarpine,drug
+312,Plenaxis,brand
+313,Posicor,brand
+314,Potassium-depleting diuretics,group
+315,ProAmatine,brand
+316,ProSom,brand
+317,Probenecid,drug
+318,Prostin VR Pediatric,brand
+319,Pulmozyme,brand
+320,Pyrimethamine,drug
+321,RAPTIVA,brand
+322,REGRANEX,brand
+323,REMERON SolTab,brand
+324,REVIA,brand
+325,REVLIMID,brand
+326,Rebif,brand
+327,Retavase,brand
+328,Rifampin,drug
+329,Ritalin,brand
+330,Robinul,brand
+331,Ropivacaine,drug
+332,S-ketamine,drug
+333,SKELAXIN,brand
+334,SKELID,brand
+335,SPIRIVA,brand
+336,SUTENT,brand
+337,SYMLIN,brand
+338,SYNAREL,brand
+339,Salicylates,group
+340,Sanctura,brand
+341,Sensipar,brand
+342,Short-Acting beta2-agonists,group
+343,Sildenafil citrate,drug
+344,Simulect,brand
+345,Sirolimus,drug
+346,Spermine,drug
+347,Starlix,brand
+348,Steroids,group
+349,Streptase,brand
+350,Sulfacetamide,drug
+351,Sulfamethizole,drug
+352,Sulfapyridine,drug
+353,Sulfoxone,drug
+354,TAMBOCOR,brand
+355,TAXOL,brand
+356,TAXOTERE,brand
+357,TNKase,brand
+358,TOBI,brand
+359,TRACRIUM,brand
+360,TRANXENE,brand
+361,TRENTAL,brand
+362,TRISENOX,brand
+363,TRITEC,brand
+364,Tagamet,brand
+365,Tamoxifen,drug
+366,Terfenadine,drug
+367,Tetracycline,drug
+368,Thalidomide,drug
+369,Theophylline,drug
+370,Thiabendazole,drug
+371,Thiazide diuretics,group
+372,Thiolated carboxymethylcellulose,drug_n
+373,Ticagrelor,drug
+374,Tilade,brand
+375,Tizoxanide,drug
+376,Trecator,brand
+377,Trecator-SC,brand
+378,Trilostane,drug
+379,Trimethoprim,drug
+380,Triprolidine,drug
+381,UROXATRAL,brand
+382,Uricosuric Agents,group
+383,VELCADE,brand
+384,VESIcare,brand
+385,VIDEX,brand
+386,Vardenafil,drug
+387,Vasoconstrictors,group
+388,Vasopressors,group
+389,Vindesine,drug
+390,Vitamin A,group
+391,Vitamin B1,drug
+392,Vitamin B2,drug
+393,Vitamin B3,drug
+394,Vitrasert,brand
+395,WELLBUTRIN,brand
+396,Warfarin,drug
+397,WelChol,brand
+398,Xigris,brand
+399,ZADAXIN,brand
+400,ZANOSAR,brand
+401,ZAVESCA,brand
+402,ZEBETA,brand
+403,ZEMURON,brand
+404,ZEVALIN,brand
+405,ZINECARD,brand
+406,Zarontin,brand
+407,Zidovudine,drug
+408,abacavir,drug
+409,acetaminophen,drug
+410,acetyl-l-carnitine,drug
+411,acetylcholine chloride,drug
+412,adrenal corticosteroids,group
+413,adrenergic drugs,group
+414,alcohol,drug
+415,allopurinol,drug
+416,alosetron,drug
+417,amantadine,drug
+418,amiloride,drug
+419,aminoglycoside,group
+420,aminoglycoside antibiotics,group
+421,aminoglycosides,group
+422,amlodipine,drug
+423,ammonium chloride,drug
+424,amphetamine,drug
+425,amphotericin B,drug
+426,ampicillin,drug
+427,amprenavir,drug
+428,amyl nitrite,drug
+429,anagrelide,drug
+430,anesthetic solutions,group
+431,anesthetics,group
+432,angiotensin,drug_n
+433,anileridine,drug
+434,antacids,group
+435,anti-neoplastic agents,group
+436,antibiotic,group
+437,antibiotic agents,group
+438,antibiotics,group
+439,anticholinergic,group
+440,anticholinergic drugs,group
+441,anticoagulants,group
+442,anticonvulsant agents,group
+443,anticonvulsants,group
+444,antidepressants,group
+445,antifungal agents,group
+446,antihistamines,group
+447,antihistaminics,group
+448,antipsychotic drug,group
+449,antithrombin III,drug
+450,arginine,drug
+451,aripiprazole,drug
+452,arsenate,drug_n
+453,ascorbic acid,drug
+454,aspirin,brand
+455,atropine,drug
+456,avian influenza vaccines,group
+457,azithromycin,drug
+458,baclofen,drug
+459,bacteriostatic antibiotics,group
+460,barbiturates,group
+461,benzodiazepines,group
+462,beta adrenergic aerosol bronchodilators,group
+463,beta-adrenergic blocking agents,group
+464,beta-adrenergic receptor blocking agents,group
+465,bexarotene,drug
+466,bromocriptine mesylate,drug
+467,budesonide,drug
+468,buforin II,drug_n
+469,bumetanide,drug
+470,buspirone hydrochloride,drug
+471,butalbital,drug
+472,butorphanol,drug
+473,caffeine,drug
+474,calcium,drug
+475,calcium channel blockers,group
+476,calcium-channel blockers,group
+477,calcium-entry blockers,group
+478,candesartan cilexetil,drug
+479,carbachol,drug
+480,caspofungin acetate,drug
+481,cefamandole naftate,drug
+482,cefuroxime,drug
+483,celecoxib,drug
+484,central nervous system (CNS) depressants,group
+485,central nervous system depressants,group
+486,cephalosporin antibiotics,group
+487,cephalosporins,group
+488,cerulein,drug_n
+489,cetirizine,drug
+490,chlordiazepoxide,drug
+491,cholestyramine,drug
+492,cimetidine,drug
+493,cinacalcet,drug
+494,cisplatin,drug
+495,clarithromycin,drug
+496,clindamycin,drug
+497,clofarabine,drug
+498,clonidine hydrochloride,drug
+499,clopidogrel,drug
+500,clozapine,drug
+501,cobalt,drug
+502,cocaine,drug
+503,codeine,drug
+504,colestipol hydrochloride,drug
+505,contortrostatin,drug_n
+506,contraceptives,group
+507,coumaphos,drug_n
+508,cyclophosphamide,drug
+509,cyclosporin,drug
+510,cyclosporine,drug
+511,dacarbazine,drug
+512,dapsone,drug
+513,dasatinib,drug
+514,debrisoquin,drug
+515,decitabine,drug
+516,depo-subQ provera 104,brand
+517,des-ciclesonide,drug
+518,desloratadine,drug
+519,diazepam,drug
+520,digitalis,group
+521,digitoxin,drug
+522,digoxin,drug
+523,diltiazem,drug
+524,diltiazem hydrochloride,drug
+525,diphenidol,drug
+526,disulfiram,drug
+527,diuretics,group
+528,dobutamine,drug
+529,dofetillide,drug
+530,dolasetron,drug
+531,dopamine,drug
+532,dorzolamide,drug
+533,doxapram,drug
+534,doxazosin,drug
+535,doxylamine,drug
+536,enfuvirtide,drug
+537,entacapone,drug
+538,entecavir,drug
+539,erection-supporting medication,group
+540,ergot alkaloids,group
+541,ergotamine,drug
+542,ertapenem,drug
+543,escitalopram,drug
+544,estradiol,drug
+545,estrogen,group
+546,etanercept,drug
+547,ethambutol,drug
+548,ethanol,drug
+549,etidronate,drug
+550,etodolac,drug
+551,etofibrate,drug
+552,etomidate,drug
+553,everolimus,drug
+554,famotidine,drug
+555,fluoroquinolones,group
+556,fluoxetine,drug
+557,fluvastatin,drug
+558,fluvoxamine,drug
+559,folic acid,drug
+560,fosphenytoin,drug
+561,gabapentin,drug
+562,galangin,drug
+563,gefitinib,drug
+564,gemfibrozil,drug
+565,gentamycin,drug
+566,ginsenosides,drug_n
+567,gliftor,drug_n
+568,glimepiride,drug
+569,glitazones,group
+570,glycine,drug
+571,guanfacine,drug
+572,hemantane,drug_n
+573,human GH,drug
+574,hydrochlorothiazide,drug
+575,hydrocortisone,drug
+576,hydroxyurea,drug
+577,idoxuridine,drug
+578,ifosfamide,drug
+579,iloprost,drug
+580,imatinib,drug
+581,indinavir,drug
+582,indomethacin,drug
+583,insulin,drug
+584,interferon beta-1a,drug
+585,iron supplements,group
+586,isosorbide dinitrate,drug
+587,isosorbide mononitrate,drug
+588,itraconazole,drug
+589,ketamine,drug
+590,ketoconazole,drug
+591,ketoprofen,drug
+592,labetalol HCl,drug
+593,lenalidomide,drug
+594,levofloxacin,drug
+595,levothyroxine,drug
+596,lithium,drug
+597,loxapine,drug
+598,lymecycline,drug
+599,mazindol,drug
+600,melarsoprol,drug
+601,methadone,drug
+602,methamphetamine,drug
+603,methotrexate,drug
+604,methyldopa,drug
+605,metoclopramide,drug
+606,metronidazole,drug
+607,miconazole,drug
+608,midazolam,drug
+609,mifepristone,drug
+610,minocycline,drug
+611,monoamine oxidase inhibitors,group
+612,moxifloxacin,drug
+613,muscle relaxants,group
+614,naloxone,drug
+615,narcotic analgesics,group
+616,nelfinavir,drug
+617,neomycin,drug
+618,neuroleptics,group
+619,neurotensin,drug_n
+620,nicotine,drug
+621,nilutamide,drug
+622,nisoldipine,drug
+623,nitroglycerin,drug
+624,nizatidine,drug
+625,non-nucleoside reverse transcriptase inhibitors,group
+626,norepinephrine,drug
+627,opioid,group
+628,opioids,group
+629,ouabain,drug
+630,oxybutynin,drug
+631,oxycodone hydrochloride,drug
+632,oxytocin,drug
+633,pentazocine,drug
+634,phenobarbital,drug
+635,phenytoin,drug
+636,picrotoxin,drug_n
+637,piperacillin,drug
+638,piperine,drug_n
+639,precocene I,drug_n
+640,probenecid,drug
+641,progestin,group
+642,progestin-only oral contraceptives,group
+643,propoxyphene,drug
+644,prostaglandin F2alpha,drug
+645,quinolones,group
+646,radiopertechnetate,drug
+647,ranitidine,drug
+648,rauwolfia alkaloid,group
+649,reserpine,drug
+650,resveratrol,drug_n
+651,rifampin,drug
+652,rofecoxib,drug
+653,ruthenium red,drug_n
+654,sandimmune,brand
+655,scopolamine,drug
+656,selegiline,drug
+657,short-acting beta adrenergic aerosol bronchodilators,group
+658,simvastatin,drug
+659,sodium nitroprusside,drug
+660,succinylcholine,drug
+661,sulfonylurea,group
+662,sulfonylureas,group
+663,sunitinib,drug
+664,sympathomimetic amines,group
+665,synthetic steroidal estrogen,group
+666,temazepam,drug
+667,terbinafine,drug
+668,testolactone,drug
+669,tetracyclines,group
+670,theophylline,drug
+671,thiazide diuretics,group
+672,thiazides,group
+673,thimerosal,drug_n
+674,thrombolytics,group
+675,thyroid hormone,group
+676,tigecycline,drug
+677,tolbutamide,drug
+678,tricyclic antidepressants,group
+679,trimetrexate,drug
+680,valdecoxib,drug
+681,valproic acid,drug
+682,vancomycin,drug
+683,verapamil,drug
+684,vigabatrin,drug
+685,vitamin,group
+686,vitamin D,group
+687,vitamin D analogues,group
+688,warfarin,drug
+689,warfarin-type anticoagulant,group
+690,xanthine bronchodilators,group
+691,xanthine derivatives,group
+692,zidovudine,drug
+693,zinc,drug
